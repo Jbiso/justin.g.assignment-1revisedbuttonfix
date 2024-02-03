@@ -1,0 +1,97 @@
+
+
+
+a { font-size: large;
+    color: white;
+    position: relative;
+    left: 1340px;
+}
+
+
+
+h2 { position: relative; 
+    top: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: left;
+    color: whitesmoke;
+    font-weight: lighter;
+    font-size: 45px;
+}
+
+h1 {
+    font-size: 55px;
+    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    
+}
+
+h3 { 
+    font-size: medium;
+    color: rgb(194, 194, 194)
+    
+}
+
+h4 {
+    position: relative;
+    font-size: x-large;
+    text-align: center;
+    top: 950px;
+    color: rgb(197, 197, 197)
+}
+
+h5 {
+    position: absolute;
+    top: 1425px;
+    left: 450px;
+    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+}
+
+h6 {
+    position: absolute;
+    top: 1410px;
+    left: 1010px;
+    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+}
+
+p {
+    color: rgb(194, 194, 194)
+}
+
+
+
+.text-1 {
+    font-size: 30px;
+    position: absolute;
+    top: 200px;
+    left: 270px;
+}
+    
+
+label {
+     color: whitesmoke;
+     
+}
+
+
+.text-2 {
+    color: rgb(252, 251, 251);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    top: 1500px;
+    left: 450px;
+    font-size: large;
+    
+}
+
+.text-3 { 
+    color: rgb(252, 251, 251);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    left: 1010px;
+    top: 1495px; 
+    font-size: large;
+}
